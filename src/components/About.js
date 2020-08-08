@@ -21,11 +21,12 @@ const About = () => {
               <h2 class="header-fonts">About</h2>
             </div>
             <div class="text mb-5">
-            <p class="special-text-color">Fatoyinbo, olaniyi owns mentcoomedi, a division of AGFOT NIGERIA registered
-            with cooperate affairs commission since 2005 and has been in Moving Making, Musical Video, TV Montage
-            and Consultancy services. He is an actor, producer, editor(VFX) supervisor and post production
-            supervisor. He is a member of the Assiociation of Nigeria Theather Practitioners (ANTP), which allows him to study
-            pre and production stages in filming, during numerous locations.</p>
+            <p class="special-text-color">Goal oriented web developer with strong commitment to collaboration and solution oriented promblem solving.
+            Use various web design software to develop customer focused websites and designs.
+            Passionate web developer with perchant of meeting deadlines.
+            Self motivated developer with good level of working experience on projects.
+            As a freelancer i build websites for an affordable price.<br />
+            Trust me my services are exactly what you need for your web project.</p>
             </div>
 
           </div>

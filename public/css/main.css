@@ -909,6 +909,9 @@ td, th {
   .footer-area .footer-bottom .footer-social {
     margin-top: 20px;
   }
+  .te {
+    margin: 2rem 28% !important;
+  }
 }
 
 @media (max-width: 768px) {

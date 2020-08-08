@@ -9,13 +9,12 @@ export const signin = user => {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify(user)
-    }) 
+    })
     .then(response => {
       return response.json()
     })
     .catch(err => {
       console.log(err);
-      
     })
   }
 
@@ -27,13 +26,13 @@ export const signin = user => {
         'Content-Type': 'application/json'
       },
       body: JSON.stringify(user)
-    }) 
+    })
     .then(response => {
       return response.json()
     })
     .catch(err => {
       console.log(err);
-      
+
     })
   }
 
@@ -86,12 +85,12 @@ export const createMessage = message => {
       'Content-Type': 'application/json'
     },
     body: JSON.stringify(message)
-  }) 
+  })
   .then(response => {
     return response.json()
   })
   .catch(err => {
     console.log(err);
-    
+
   })
 }
