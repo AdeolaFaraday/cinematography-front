@@ -10,7 +10,7 @@ const NavBar = ({history}) => {
         <nav class="main-navigation">
             <div class="container clearfix">
                 <div class="site-logo-wrap">
-                    <a class="logo"  href="/"><h1 class="nav-fonts">Mentcomedia</h1></a>
+                    <a class="logo"  href="/"><h1 class="nav-fonts">tech_faraday</h1></a>
                 </div>
                 <a href="javascript:void(0)" class="menu-trigger hidden-lg-up"><span>&nbsp;</span></a>
                 <div class="main-menu hidden-md-down">

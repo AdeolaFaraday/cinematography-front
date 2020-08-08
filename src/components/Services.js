@@ -13,51 +13,31 @@ const Services = () => {
     <div class="col-lg-4  each-service">
       <div class="abt-block mb-lg-0 mb-md-5">
         <div class="serv_abs serv_bottom">
-          <span class="fa fa-star"></span>
+          <span class="fa fa-adjust"></span>
         </div>
-        <h3>CINEMATOGRAPHY</h3>
-        <p class="special-text-color">Little description about this, i can ignore it
-        if you want, but it would be nice to have.</p>
+        <h3>DESIGN</h3>
+        <p class="special-text-color">I have everything required to produce website that are design flexible with great user interface and user
+        experience, making sites easier to navigate.</p>
       </div>
     </div>
     <div class="col-lg-4 my-lg-0 my-md-5 each-service">
       <div class="abt-block">
         <div class="serv_abs serv_bottom">
-          <span class="fa fa-magic"></span>
+          <span class="fa fa-connectdevelop"></span>
         </div>
-        <h3>VISUAL EFFECT</h3>
-        <p class="special-text-color">Little description about this, i can ignore it
-        if you want, but it would be nice to have.</p>
+        <h3>DEVELOP</h3>
+        <p class="special-text-color">Based on easy routing, awesome functionlities and quality user interface and experience, websites built by me are dynamic, interactive and easy to
+          navigate.</p>
       </div>
     </div>
     <div class="col-lg-4 mt-lg-0 mt-md-5 each-service">
       <div class="abt-block">
         <div class="serv_abs serv_bottom">
-          <span class="fa fa-child"></span>
+          <span class="fa fa-server"></span>
         </div>
-        <h3>EDITING & COLOR CORRECTION</h3>
-        <p class="special-text-color">Little description about this, i can ignore it
-        if you want, but it would be nice to have.</p>
-      </div>
-    </div>
-    <div class="col-lg-4 mt-lg-4 mt-md-5 each-service">
-      <div class="abt-block">
-        <div class="serv_abs serv_bottom">
-          <span class="fa fa-child"></span>
-        </div>
-        <h3>SCREEN WRITING</h3>
-        <p class="special-text-color">Little description about this, i can ignore it
-        if you want, but it would be nice to have.</p>
-      </div>
-    </div>
-    <div class="col-lg-4 mt-lg-4 mt-md-5 each-service">
-      <div class="abt-block">
-        <div class="serv_abs serv_bottom">
-          <span class="fa fa-child"></span>
-        </div>
-        <h3>CONTENT PROVIDER</h3>
-        <p class="special-text-color">Little description about this, i can ignore it
-        if you want, but it would be nice to have.</p>
+        <h3>DEPLOY</h3>
+        <p class="special-text-color">The purpose of having a website is to make it available to users, and also considering cost, websites are
+          deployed to reliable hosting service with affordable hosting price.</p>
       </div>
     </div>
   </div>
